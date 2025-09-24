@@ -1,2 +1,3 @@
 saying hello from local repo
 learning how to use github
+use config to escape from user n password
